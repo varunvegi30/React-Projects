@@ -1,0 +1,20 @@
+.array-container {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.buttons {
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: gray;
+    border-color: gray;
+}
